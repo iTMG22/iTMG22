@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iTMG22
-- 👀 I’m interested in ... Java, C++ and SQL
-- 🌱 I’m currently learning ... Systems Engineer
+- 👀 I’m interested in ... Java, C++, Python Pandas
+- 🌱 I’m currently Studying ... Systems Engineer
 - 📫 How to reach me ... tomashmartinez@javeriana.edu.co
 
 <!---
